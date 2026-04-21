@@ -17,39 +17,34 @@ I build <b>production-grade AI systems</b> — from raw data → retrieval → r
 
 ##  Featured Projects
 
-###  TubeMind — LLM Knowledge Companion (RAG System)
-- Built using **LangChain + FAISS + FastAPI**
-- Converts long YouTube transcripts → structured knowledge
-- Optimized retrieval (**~90% relevance**) & low latency (**3–5s**)
-- Includes caching, prompt optimization & evaluation pipelines  
+### TubeMind — RAG System
+
+LLM-powered knowledge system using **LangChain + FAISS + FastAPI**, converting YouTube transcripts into structured insights with ~90% retrieval accuracy and ~3–5s latency.  
 
 🔗 https://github.com/sehajsukhleensingh/TubeMind
 
 ---
 
-###  realEstateAI — End-to-End ML Pipeline
-- Real-world dataset scraped via Selenium  
-- XGBoost model (**R² = 0.86**)  
-- Feature-driven recommendation system  
-- Fully containerized using Docker  
+### realEstateAI — ML Pipeline
+
+End-to-end ML pipeline with **web scraping, feature engineering & XGBoost (R² = 0.86)**, deployed using Docker with analytics dashboard.  
 
 🔗 https://github.com/sehajsukhleensingh/realEstateAI
 
 ---
 
-###  Conversational AI Engine
-- Multi-turn, context-aware conversational system  
-- Built for scalable LLM interactions  
+### Conversational AI Engine
+
+Context-aware multi-turn conversational system designed for scalable LLM interactions.  
 
 🔗 https://github.com/sehajsukhleensingh/conversational-ai-engine
-
 ---
 
 ##  Tech Stack
 
 ###  Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,postgresql" />
+<img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
 ###  AI / ML
@@ -64,8 +59,8 @@ I build <b>production-grade AI systems</b> — from raw data → retrieval → r
 <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LangSmith-black?style=for-the-badge" />
-</p>
 
+</p>
 ###  Backend & Infra
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github" />
@@ -76,15 +71,7 @@ I build <b>production-grade AI systems</b> — from raw data → retrieval → r
 ##  GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sehajsukhleensingh&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=sehajsukhleensingh&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehajsukhleensingh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -102,5 +89,5 @@ I build <b>production-grade AI systems</b> — from raw data → retrieval → r
 
 ---
 
-## ⚡ Philosophy
+##  Philosophy
 > I don't just build models — I engineer AI systems that work reliably at scale.
