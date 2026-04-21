@@ -11,10 +11,8 @@
 <img src="https://skillicons.dev/icons?i=python,mysql,fastapi,docker,git,github,sklearn" />
 </p>
 
-<p align="center" style="font-size: 16px;">
-
+<p align="center" style="font-size:16;">
 <b>RAG • LLMs • LangChain • LangGraph • LangSmith • NumPy • Pandas</b>
-
 </p>
 
 
