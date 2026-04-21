@@ -7,20 +7,12 @@
 
 ##  Tech Stack
 
-<p>
-<!-- ICONS -->
-<img src="https://skillicons.dev/icons?i=python,mysql,fastapi,docker,git,github,sklearn" height="42"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,fastapi,docker,git,github,sklearn" />
 </p>
 
-<p>
-<!-- CUSTOM BADGES -->
-<img src="assets/badges/numpy.svg" />
-<img src="assets/badges/pandas.svg" />
-<img src="assets/badges/rag.svg" />
-<img src="assets/badges/llm.svg" />
-<img src="assets/badges/langchain.svg" />
-<img src="assets/badges/langgraph.svg" />
-<img src="assets/badges/langsmith.svg" />
+<p align="center">
+RAG • LLMs • LangChain • LangGraph • LangSmith • NumPy • Pandas
 </p>
 
 
