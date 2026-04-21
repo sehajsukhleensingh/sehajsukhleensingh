@@ -1,16 +1,9 @@
-<h1 align="center">Hi , I'm Sehaj Sukhleen Singh</h1>
-<h3 align="center">BE CSE (Hons.) - AI & ML | AI Systems Engineer (LLMs, RAG, Agents)</h3>
-
-<p align="center">
-I build <b>production-grade AI systems</b> — from raw data → retrieval → reasoning → deployment.
-</p>
-
----
+<h1>Hi , I'm Sehaj Sukhleen Singh</h1>
 
 ##  About Me
 -  BE CSE (Hons.) with Specialization in AI & ML  
 -  Focused on **LLM Systems, RAG Pipelines, and AI Agents**  
--  Strong in **system design, backend engineering, and ML pipelines**  
+-  Strong in **ML pipelines, backend engineering and system design**  
 -  Currently learning: **Multi-Agent Systems (LangGraph)**  
 
 ---
