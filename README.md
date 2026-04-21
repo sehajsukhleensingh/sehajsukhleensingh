@@ -32,24 +32,15 @@ Context-aware multi-turn conversational system designed for scalable LLM interac
 
 <p>
 <!-- Languages -->
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
-
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
+<img src="https://skillicons.dev/icons?i=python,mysql" />
 <!-- AI / ML -->
 <img src="https://skillicons.dev/icons?i=sklearn" />
 <img src="https://img.shields.io/badge/RAG-555?style=flat-square" />
-<img src="https://img.shields.io/badge/LLMs-555?style=flat-square" />
-
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
+<img src="https://img.shields.io/badge/LLMs-555?style=flat-square" /?
 <!-- AI Systems -->
-<img src="https://img.shields.io/badge/LangChain-2E8B57?style=flat-square" />
-<img src="https://img.shields.io/badge/LangGraph-1E90FF?style=flat-square" />
-<img src="https://img.shields.io/badge/LangSmith-FF6F61?style=flat-square" />
-
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
+<img src="https://img.shields.io/badge/LangChain-2E8B57?style=flat-square&labelColor=2E8B57" height="28"/>
+<img src="https://img.shields.io/badge/LangGraph-1E90FF?style=flat-square&labelColor=1E90FF" height="28"/>
+<img src="https://img.shields.io/badge/LangSmith-FF6F61?style=flat-square&labelColor=FF6F61" height="28"/>
 <!-- Backend -->
 <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github" />
 </p>
