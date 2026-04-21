@@ -8,14 +8,14 @@
 ##  Tech Stack
 
 <p>
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-<!-- Backend -->
-<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github" />
 <!-- AI Systems -->
 <img src="https://img.shields.io/badge/LangChain-2E8B57?style=flat-square&labelColor=2E8B57" height="28"/>
 <img src="https://img.shields.io/badge/LangGraph-1E90FF?style=flat-square&labelColor=1E90FF" height="28"/>
 <img src="https://img.shields.io/badge/LangSmith-FF6F61?style=flat-square&labelColor=FF6F61" height="28"/>
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github" />
 <!-- AI / ML -->
 <img src="https://skillicons.dev/icons?i=sklearn" />
 <img src="https://img.shields.io/badge/RAG-555?style=flat-square" />
