@@ -9,7 +9,9 @@
 
 <p>
 <!-- Languages -->
-<img src="https://skillicons.dev/icons?i=python,mysql,numpy,pandas" />
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="28"/>
 <!-- Backend -->
 <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github" />
 <!-- AI / ML -->
