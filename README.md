@@ -1,5 +1,3 @@
-<h1>Hi , I'm Sehaj Sukhleen Singh</h1>
-
 ##  About Me
 -  BE CSE (Hons.) with Specialization in AI & ML  
 -  Focused on **LLM Systems, RAG Pipelines, and AI Agents**  
