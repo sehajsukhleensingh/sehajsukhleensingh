@@ -9,7 +9,7 @@
 
 <p>
 <!-- Languages -->
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://skillicons.dev/icons?i=python,mysql,numpy,pandas" />
 <!-- Backend -->
 <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github" />
 <!-- AI / ML -->
@@ -42,13 +42,6 @@ End-to-end ML pipeline with **web scraping, feature engineering & XGBoost (R² =
 Context-aware multi-turn conversational system designed for scalable LLM interactions.  
 
 🔗 https://github.com/sehajsukhleensingh/conversational-ai-engine
-
-
-##  GitHub Analytics
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sehajsukhleensingh&theme=tokyonight&hide_border=true" />
-</p>
 
 
 ##  Current Focus
