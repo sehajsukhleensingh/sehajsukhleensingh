@@ -8,26 +8,19 @@
 ##  Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="28"/>
+<!-- ICONS -->
+<img src="https://skillicons.dev/icons?i=python,mysql,fastapi,docker,git,github,sklearn" height="42"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="28"/>
-
-<img src="https://skillicons.dev/icons?i=fastapi" height="40"/>
-<img src="https://img.shields.io/badge/RAG-FF6F61?style=flat-square" height="28"/>
-
-<img src="https://skillicons.dev/icons?i=docker" height="40"/>
-<img src="https://img.shields.io/badge/LLMs-1E90FF?style=flat-square" height="28"/>
-
-<img src="https://skillicons.dev/icons?i=git" height="40"/>
-<img src="https://img.shields.io/badge/LangChain-2E8B57?style=flat-square" height="28"/>
-
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-<img src="https://img.shields.io/badge/LangGraph-1E90FF?style=flat-square" height="28"/>
-
-<img src="https://skillicons.dev/icons?i=sklearn" height="40"/>
-<img src="https://img.shields.io/badge/LangSmith-FF6F61?style=flat-square" height="28"/>
+<p>
+<!-- CUSTOM BADGES -->
+<img src="assets/badges/numpy.svg" />
+<img src="assets/badges/pandas.svg" />
+<img src="assets/badges/rag.svg" />
+<img src="assets/badges/llm.svg" />
+<img src="assets/badges/langchain.svg" />
+<img src="assets/badges/langgraph.svg" />
+<img src="assets/badges/langsmith.svg" />
 </p>
 
 
