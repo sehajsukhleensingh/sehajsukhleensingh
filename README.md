@@ -30,27 +30,27 @@ Context-aware multi-turn conversational system designed for scalable LLM interac
 
 ##  Tech Stack
 
-###  Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
 
-###  AI / ML
-<p>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
+<!-- AI / ML -->
 <img src="https://skillicons.dev/icons?i=sklearn" />
-<img src="https://img.shields.io/badge/RAG-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge" />
-</p>
+<img src="https://img.shields.io/badge/RAG-555?style=flat-square" />
+<img src="https://img.shields.io/badge/LLMs-555?style=flat-square" />
 
-###  AI Systems
-<p>
-<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangSmith-black?style=for-the-badge" />
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
-</p>
-###  Backend & Infra
-<p>
+<!-- AI Systems -->
+<img src="https://img.shields.io/badge/LangChain-2E8B57?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-1E90FF?style=flat-square" />
+<img src="https://img.shields.io/badge/LangSmith-FF6F61?style=flat-square" />
+
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
+<!-- Backend -->
 <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github" />
 </p>
 
@@ -71,7 +71,3 @@ Context-aware multi-turn conversational system designed for scalable LLM interac
 ##  Connect
 - LinkedIn: https://www.linkedin.com/in/sehaj-sukhleen-singh/
 - Email: sehajsukhleensingh@gmail.com
-
-
-##  Philosophy
-> I don't just build models — I engineer AI systems that work reliably at scale.
