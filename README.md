@@ -8,20 +8,26 @@
 ##  Tech Stack
 
 <p>
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="28"/>
+
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="28"/>
-<!-- Backend -->
-<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github" />
-<!-- AI / ML -->
-<img src="https://skillicons.dev/icons?i=sklearn" />
-<img src="https://img.shields.io/badge/RAG-555?style=flat-square&labelColor=FF6F61"" />
-<img src="https://img.shields.io/badge/LLMs-555?style=flat-square&labelColor=1E90FF"" />
-<!-- AI Systems -->
-<img src="https://img.shields.io/badge/LangChain-2E8B57?style=flat-square&labelColor=2E8B57" "/>
-<img src="https://img.shields.io/badge/LangGraph-1E90FF?style=flat-square&labelColor=1E90FF" "/>
-<img src="https://img.shields.io/badge/LangSmith-FF6F61?style=flat-square&labelColor=FF6F61" "/>
+
+<img src="https://skillicons.dev/icons?i=fastapi" height="40"/>
+<img src="https://img.shields.io/badge/RAG-FF6F61?style=flat-square" height="28"/>
+
+<img src="https://skillicons.dev/icons?i=docker" height="40"/>
+<img src="https://img.shields.io/badge/LLMs-1E90FF?style=flat-square" height="28"/>
+
+<img src="https://skillicons.dev/icons?i=git" height="40"/>
+<img src="https://img.shields.io/badge/LangChain-2E8B57?style=flat-square" height="28"/>
+
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://img.shields.io/badge/LangGraph-1E90FF?style=flat-square" height="28"/>
+
+<img src="https://skillicons.dev/icons?i=sklearn" height="40"/>
+<img src="https://img.shields.io/badge/LangSmith-FF6F61?style=flat-square" height="28"/>
 </p>
 
 
