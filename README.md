@@ -6,7 +6,6 @@
 -  Strong in **ML pipelines, backend engineering and system design**  
 -  Currently learning: **Multi-Agent Systems (LangGraph)**  
 
----
 
 ##  Featured Projects
 
@@ -16,22 +15,18 @@ LLM-powered knowledge system using **LangChain + FAISS + FastAPI**, converting Y
 
 🔗 https://github.com/sehajsukhleensingh/TubeMind
 
----
-
 ### realEstateAI — ML Pipeline
 
 End-to-end ML pipeline with **web scraping, feature engineering & XGBoost (R² = 0.86)**, deployed using Docker with analytics dashboard.  
 
 🔗 https://github.com/sehajsukhleensingh/realEstateAI
 
----
-
 ### Conversational AI Engine
 
 Context-aware multi-turn conversational system designed for scalable LLM interactions.  
 
 🔗 https://github.com/sehajsukhleensingh/conversational-ai-engine
----
+
 
 ##  Tech Stack
 
@@ -59,7 +54,6 @@ Context-aware multi-turn conversational system designed for scalable LLM interac
 <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github" />
 </p>
 
----
 
 ##  GitHub Analytics
 
@@ -67,20 +61,17 @@ Context-aware multi-turn conversational system designed for scalable LLM interac
 <img src="https://streak-stats.demolab.com?user=sehajsukhleensingh&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
 ##  Current Focus
 -  Building **Multi-Agent AI Systems (LangGraph)**
 -  Improving **RAG latency & retrieval quality**
 -  Designing **scalable AI backends (FastAPI + Docker)**
 
----
 
 ##  Connect
 - LinkedIn: https://www.linkedin.com/in/sehaj-sukhleen-singh/
 - Email: sehajsukhleensingh@gmail.com
 
----
 
 ##  Philosophy
 > I don't just build models — I engineer AI systems that work reliably at scale.
